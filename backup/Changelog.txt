@@ -1,0 +1,8 @@
+Version 1.3:
+-Twitter Feed Removed. Because of API update.
+
+Version 1.2:
+-Portfolio Bug fix
+
+Version 1.0:
+-Initial Release

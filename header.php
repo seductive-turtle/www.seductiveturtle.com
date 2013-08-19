@@ -20,6 +20,7 @@
   <!--[if gte IE 9]><!-->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js" type="text/javascript"></script>
   <!--<![endif]-->
+  <script src="/test.js" type="text/javascript"></script>
   
   <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 		
